@@ -129,8 +129,8 @@ a:hover, li:hover{
     
     border: 5px solid black;
     margin-top: 20px;
-    background-color: rgb(8, 76, 165);
-    color: white;
+    background-color: rgb(138 171 215);
+    color: black;
 }
 .view{
     width: fit-content;
@@ -257,6 +257,9 @@ p{
     height: 16px;
     
 }
+h3{
+    text-align: center;
+}
 h1{
     text-align: center;
     margin-bottom: 5px;
@@ -354,7 +357,7 @@ h1{
         grid-template-rows: auto;
     }
     .hello{
-        font-size: medium;
+        font-size: 30px;
         padding-left:0;
         margin-left: 0;
     }
@@ -364,7 +367,7 @@ h1{
 
     }
     h1{
-        font-size: medium;
+        font-size: 40px;
     }
     .contact{
         margin-left: 19%;
