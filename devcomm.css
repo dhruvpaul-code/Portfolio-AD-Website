@@ -358,8 +358,9 @@ h1{
         padding-left:0;
         margin-left: 0;
     }
-    li{
+    .nav2 li{
         font-size: medium;
+        margin: 5px;
 
     }
     h1{
@@ -380,6 +381,11 @@ h1{
     .box1{
         height: 120px;
         width: 270px;
+    }
+    
+    .todo,.expensetracker{
+        width: auto;
+        padding: 20px 5px;
     }
     
 
