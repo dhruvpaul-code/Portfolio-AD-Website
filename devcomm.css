@@ -367,7 +367,7 @@ h1{
 
     }
     h1{
-        font-size: 38px;
+        font-size: 33px;
     }
     .contact{
         margin-left: 19%;
@@ -387,8 +387,9 @@ h1{
     }
     
     .todo,.expensetracker{
-        width: auto;
+        width: 300px;
         padding: 20px 10px;
+        border: 2px solid black;
     }
     
 
